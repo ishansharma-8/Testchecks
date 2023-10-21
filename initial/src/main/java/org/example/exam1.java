@@ -1,0 +1,9 @@
+package org.example;
+
+
+
+public class exam1 {
+    public static void main(String[] args) {
+        System.out.println(" this is new class");
+    }
+}
